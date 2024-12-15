@@ -1,20 +1,19 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/ReintB/ReintB/master/README.md",
+  "title": "Reinhart B",
+  "name": "Reinhart Barus",
+  "ascii": "Reinhart B",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "ReintB",
+    "linkedin": "reinhart-barus-a42b65250"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "gmail": "reintbarus@gmail.com",
+  "ps1_hostname": "visitor",
+  "ps1_username": "reinhartb",
+  "repo": "https://github.com/ReintB?tab=repositories",
+  "resume_url": "https://assets.speakcdn.com/assets/2703/bulletin-may26.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/reinhartbarus"
   },
   "colors": {
     "light": {
