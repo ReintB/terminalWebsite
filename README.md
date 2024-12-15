@@ -16,12 +16,12 @@ Feel free to play with the web demo above!
 ## 📸 Showcase
 
 <p align="center">
-<img src="./demo/demo.gif" width="600"><br>
+<img src="./LiveTerm./demo/demo.gif" width="600"><br>
 <strong>LiveTerm with different themes</strong>
 </p>
 
 <p align="center">
-<img src="./demo/cveinnt.png" width="600"><br>
+<img src="./LiveTerm./demo/cveinnt.png" width="600"><br>
 <strong><a href="https://cveinnt.com" target=_blank>my personal website</a></strong>
 </p>
 
